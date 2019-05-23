@@ -34,7 +34,8 @@ nav{
 section{
     background: #ebebeb;
     margin-top: 20px;
-    padding: 40px 50px 5px 10px;
+    
+    padding: 5px 5px 5px 5px;
     widows: 550px;
 }
 aside{
@@ -42,7 +43,7 @@ aside{
     float: right;
     padding: 20px;
     margin-top: 20px;
-    height: 380px;
+    height: 345px;
     width: 450px;
 }
 footer{
