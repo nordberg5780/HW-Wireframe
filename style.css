@@ -18,6 +18,7 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: auto;
 }
 
 header{
@@ -41,8 +42,8 @@ aside{
     float: right;
     padding: 20px;
     margin-top: 20px;
-    height: 280px;
-    width: 400px;
+    height: 380px;
+    width: 450px;
 }
 footer{
     background: #ebebeb;
@@ -50,7 +51,7 @@ footer{
     margin-top: 20px;
 }
 
-article{
+#article{
     color: #ebebeb;
     background: #777;
     padding: 20px;
